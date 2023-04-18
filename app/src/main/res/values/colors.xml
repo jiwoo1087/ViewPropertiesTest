@@ -10,4 +10,5 @@
     <color name="btn_1">#EAF1AC</color>
     <color name="text_view">#CDF3E2</color>
     <color name="Edit_text">#3F51B5</color>
+    <color name="text_color">#6CB53F</color>
 </resources>
